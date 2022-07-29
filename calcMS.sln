@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcMS", "calcMS\calcMS.csproj", "{98CDDA74-F8B5-4B53-8E2E-C8373840B274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98CDDA74-F8B5-4B53-8E2E-C8373840B274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CDDA74-F8B5-4B53-8E2E-C8373840B274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CDDA74-F8B5-4B53-8E2E-C8373840B274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CDDA74-F8B5-4B53-8E2E-C8373840B274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2B7C885-3392-474F-ADE0-5CDA261DEE49}
+	EndGlobalSection
+EndGlobal

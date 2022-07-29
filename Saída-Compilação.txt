@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: calcMS, Configuração: Debug Any CPU ------
+1>  calcMS -> C:\Users\mathe\Documents\MeusProjetos\calcMS\calcMS\bin\Debug\calcMS.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
